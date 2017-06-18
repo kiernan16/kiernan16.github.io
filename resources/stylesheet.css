@@ -22,7 +22,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active, .dropbtn) {
+li a:hover:not(.active){
     background-color: #111;
 }
 
@@ -59,7 +59,9 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {
+    color: #4CAF50;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
