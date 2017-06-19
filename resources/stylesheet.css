@@ -111,3 +111,18 @@ li.dropdown {
 .menu li:hover {
     background-color: #0099cc;
 }
+
+.menu li#viewing {
+    background-color: #989898;
+    
+}
+
+h1#apps,h2#apps {
+   text-align: center;
+}
+
+img#apps {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
